@@ -4,11 +4,11 @@
   HP上の表示を変えたい時は、下の "..." の中だけを書き換えてください。
 */
 window.PELUCCHI_SITE_STATUS = {
-  statusDate: "2026.06.17",
-  statusTitle: "受付準備中",
-  statusText: "HPとネットショップを整理中です。受付開始まで少々お待ちください。",
-  receptionTitle: "準備中",
-  receptionText: "受付開始日・受付終了日は、HPとネットショップの整理が終わった後に決定します。",
-  shippingTitle: "受付終了後 約1ヶ月半前後",
-  shippingText: "基本的に受付数の上限はありませんが、大量注文の場合はこの限りではありません。",
+  statusDate: "2026.06.25",
+  statusTitle: "受付中",
+  statusText: "現在ご注文を受け付けています。",
+  receptionTitle: "受付期間",
+  receptionText: "2026年6月25日〜7月5日",
+  shippingTitle: "発送予定",
+  shippingText: "2026年8月5日〜8月10日頃",
 };
