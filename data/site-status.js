@@ -5,8 +5,8 @@
 */
 window.PELUCCHI_SITE_STATUS = {
   statusDate: "2026.06.25",
-  statusTitle: "受付中",
-  statusText: "現在ご注文を受け付けています。",
+  statusTitle: "準備中",
+  statusText: "現在、ご注文受付の準備中です。",
   receptionTitle: "受付期間",
   receptionText: "2026年6月25日〜7月5日",
   shippingTitle: "発送予定",
